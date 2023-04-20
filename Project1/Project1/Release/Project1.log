@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\bots-reb\dump test\cyters\Project1\Project1\main.cpp(22,1): warning C4005: _WIN32_WINNT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\sdkddkver.h(224): message : см. предыдущее определение "_WIN32_WINNT"
+  Создание кода
+  1 of 360 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Project1.vcxproj -> D:\bots-reb\dump test\cyters\Project1\Release\Project1.exe
